@@ -20,9 +20,9 @@ Predizione della prossima attività in processi aziendali a partire da event log
 **Stack:**  Python, PyTorch, PyTorch Geometric (PyG), Process Mining (XES), PM4Py, NetworkX, Matplotlib
 
 ### [Project Management & Business Intelligence](https://github.com/callmefl/Project-Management-Business-Intelligence)
-Due progetti complementari.
+Due progetti complementari:
 
-⚡ Il primo è un Project Management Plan integrale (standard PMI/PMBOK) per una rete logistica a guida autonoma con droni ad Ancona, con schedulazione CPM a 22 mesi su Microsoft Project, analisi probabilistica dei rischi e piano finanziario
+⚡ Il primo è un Project Management Plan integrale (standard PMI/PMBOK) per una rete logistica a guida autonoma con droni ad Ancona, con schedulazione CPM a 22 mesi su Microsoft Project, analisi probabilistica dei rischi e piano finanziario.
 
 ⚡Il secondo è una pipeline multi-piattaforma per la Sports Analytics applicata su dati FC24 strutturata per supportare tre stakeholder decisionali: lo Staff tecnico su Qlik Sense (analisi tattica, gestione dello spogliatoio e calci piazzati), la Direzione sportiva
   & Scouting su Power BI (valutazione patrimoniale della rosa, sostenibilità ingaggi e recruiting predittivo con algoritmi di Machine Learning ), e il C-Level su Tableau (benchmark macro-economico delle top 5 leghe europee e analisi sul Gender Pay Gap).
